@@ -23,12 +23,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://opencollective.com/andreamariadb) and ![Image]([Uploading saved_resource.html…]())
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+![hq720_live](https://user-images.githubusercontent.com/87845402/127743937-b8565870-e4c8-4906-9011-996ca39888ed.jpg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andrea-MariaDB-2/Megatron-LM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
